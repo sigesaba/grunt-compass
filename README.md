@@ -13,6 +13,10 @@ Gruntがindex.htmlと*.scssファイルを監視します。scssファイルが�
 
 使い方
 -----
+compassのインストールが必要です。まだの方は下のリンクを参考にcompassインストールしてください。
+
+[Install the Compass Stylesheet Authoring Framework | Compass Documentation](http://compass-style.org/install/)
+
 
 ##cloneまたはダウンロード
 ファイルをcloneまたはダウンロードして適当なディレクトリに配置してください。
@@ -39,4 +43,6 @@ Gruntfile.jsがあるディレクトリでgruntを実行します。
 grunt
 ```
 
+##ブラウザでhtmlを表示するには
+http://localhost:9001 でindex.htmlを表示できます。
 

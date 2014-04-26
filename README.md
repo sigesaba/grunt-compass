@@ -1,7 +1,7 @@
 sass-compass-grunt
 =======
 
-Grunt Front Osaka Vol.1で発表したsass+compass+gruntの関連ファイル群です。
+[Grunt Front Osaka Vol.1](http://connpass.com/event/5479/) で発表したsass+compass+gruntの関連ファイル群です。
 
 概要
 -----
